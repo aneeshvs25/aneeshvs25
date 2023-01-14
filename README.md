@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @aneeshvs25
 - 👀 I’m interested in Data Science
-- 🌱 I’m currently learning Data Analytics
-- 💞️ I’m looking to collaborate on 
-- 📫 How to reach me 
+- 🌱 I’m currently Working as a Data Analyst
+- 💞️ I’m looking for !!!
+- 📫 How to reach me !!!
 
 <!---
 aneeshvs25/aneeshvs25 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
